@@ -69,6 +69,7 @@ public class Example {
 ```
 ___
 ### 11.	Если при вводе кода программы вы допустили опечатку, то какого рода сообщение об ошибке получите?
+Сообщение о синтаксической ошибке.
 Exception in thread "main" java.lang.RuntimeException: Uncompilable code - cannot find symbol  
 symbol:   class doule
 ___
